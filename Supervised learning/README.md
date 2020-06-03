@@ -23,11 +23,6 @@ CD Account Does the customer have a certificate of deposit (CD) account with the
 Online Does the customer use internet banking facilities?
 CreditCard Does the customer uses a credit card issued by UniversalBank?
 
-# Acknowledgements
-This data set was given as part of course in machine learning. I have also added my observations on the data. I thank my faculty for giving an opportunity to work on this dataset.
-
-# Inspiration
-Study the data distribution in each attribute, share your findings. Use a classification model to predict the likelihood of a liability customer buying personal loans.
 
 # Technologies & Libraries
 Python3 
