@@ -1,4 +1,5 @@
-6Invoice Bill Extraction
+
+Invoice Bill Extraction
 
 
 This project is used to extract the details of taxi bills such as ola from the online invoice in PDF format.
